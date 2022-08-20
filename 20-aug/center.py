@@ -1,3 +1,4 @@
-s='leetcode'
-s = s.center(20,'a')
+s='leetcodee'
+print(s)
+s = s.find('code')
 print(s)
